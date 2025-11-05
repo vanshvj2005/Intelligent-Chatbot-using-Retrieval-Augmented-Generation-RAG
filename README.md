@@ -1,0 +1,2 @@
+# Intelligent-Chatbot-using-Retrieval-Augmented-Generation-RAG
+RAG Chatbot with Conversational Memory is an intelligent assistant that combines Retrieval-Augmented Generation (RAG) with memory. It delivers precise, context-aware answers from your uploaded documents (PDF, TXT) or any webpage URL. Built with Streamlit, LangChain, Google Gemini, and ChromaDB, this chatbot is perfect for students, researchers, etc
