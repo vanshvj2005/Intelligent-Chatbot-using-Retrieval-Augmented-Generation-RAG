@@ -1,0 +1,13 @@
+langchain
+langchain-community
+langchainhub
+langchain-chroma
+beautifulsoup4
+langchain_google_genai
+streamlit
+python-dotenv
+streamlit-community-navigation-bar
+protobuf==3.20.3
+setuptools
+pysqlite3-binary
+pypdf
